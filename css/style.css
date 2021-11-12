@@ -6,3 +6,12 @@ img {
 
 h3 {
     line-height: 20px;
+}
+
+.style1 {
+    padding-right: 160px;
+}
+
+.zero {
+    color: darkorange;
+}
