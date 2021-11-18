@@ -10,6 +10,7 @@ h3 {
 
 .style1 {
     padding-right: 160px;
+    color: white;
 }
 
 .zero {
@@ -19,9 +20,13 @@ h3 {
 
 .style2 {
     padding-left: 150px;
-    color:#002347
+    color: white;
 }
 
 .style3 {
     padding-left: 188px;
+    color: white;
+}
+.bodystyle {
+    background-color: #002347;
 }
