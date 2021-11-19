@@ -1,17 +1,17 @@
 # class-project
-Project Name: Web Development Portfolio.
-Author: Oscar Kimani
+**Project Name: Web Development Portfolio.**
+**Author: Oscar Kimani**
 
-Projection Description:
+**Projection Description:**
 This is a Web Development Portfolio to showcase what I have learnt in my Web Development Journey. It includes use of HTML tags like p, h, ul, ol, li, em, strong, a, img, div, span and Custom CSS Stylesheet. 
 
 For you to set up and use the project you can just clone the repository and open the Directory from an editor like Visual Studio Code. 
 
 See below a link to the live site on git hub pages
+**
+LICENSE**
 
-LICENSE
-
-MIT License
+**MIT License**
 
 Copyright (c) 2021 Okimani
 
