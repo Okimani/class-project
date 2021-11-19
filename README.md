@@ -8,8 +8,10 @@ This is a Web Development Portfolio to showcase what I have learnt in my Web Dev
 For you to set up and use the project you can just clone the repository and open the Directory from an editor like Visual Studio Code. 
 
 See below a link to the live site on git hub pages
-**
-LICENSE**
+
+https://okimani.github.io/class-project/
+
+**LICENSE**
 
 **MIT License**
 
